@@ -1,1 +1,2 @@
-# hackatcewit-backend
+# hackatcewit-backend-test
+Hack@CEWIT Server
